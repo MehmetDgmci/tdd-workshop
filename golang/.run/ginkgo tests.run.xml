@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ginkgo tests" type="GinkgoRunConfigurationType">
+    <envs />
+    <ginkgo-executable value="" />
+    <working-dir value="$PROJECT_DIR$" />
+    <envs />
+    <ginkgo-scope value="ALL" />
+    <focus-expression value="" />
+    <package-name />
+    <method v="2" />
+  </configuration>
+</component>
